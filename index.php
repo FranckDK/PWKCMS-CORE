@@ -1,4 +1,7 @@
 <?php
+//PWKCMS par Franck PWK
+//www.pwk.fr
+
 ini_set('display_errors',1);
 //Connexion à la base de données
 include('03-CONFIG/01-BDD.php');

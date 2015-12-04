@@ -1,4 +1,4 @@
-<!--ACTION.PHP-->
+<!--ACTION.PHP :)-->
 <?php
 @$type=addslashes($_GET['type']);
 @$mod=addslashes($_GET['mod']);
